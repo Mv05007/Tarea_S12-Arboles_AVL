@@ -255,7 +255,7 @@ Para el diseño y la construcción visual comparativa de los árboles binarios g
 
 En cumplimiento con las instrucciones de la guía de la asignatura, a continuación se adjunta el enlace fuente compartido con los permisos de edición vigentes para su respectiva revisión y verificación técnica:
 
-* **Enlace editable del proyecto:** [https://www.figma.com/board/UjgTSyjlyBP3LSqcJt2eaj/%C3%81RBOLES-DE-LA-TAREA-EN-CLASE-11?node-id=0-1&t=2RfiAj0NpO5uZAux-1](https://www.figma.com/board/UjgTSyjlyBP3LSqcJt2eaj/%C3%81RBOLES-DE-LA-TAREA-EN-CLASE-11?node-id=0-1&t=2RfiAj0NpO5uZAux-1)
+* **Enlace editable del proyecto:** [https://www.figma.com/board/OTPN4xbS3SS1XxX8KSS6og/Tarea-Arboles-AVL?node-id=0-1&t=wKDqiO3jGV0Bpge2-1](https://www.figma.com/board/OTPN4xbS3SS1XxX8KSS6og/Tarea-Arboles-AVL?node-id=0-1&t=wKDqiO3jGV0Bpge2-1)
 
 ---
 
