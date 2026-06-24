@@ -169,6 +169,35 @@ FIN FUNCION
 
 ```
 
+### E. Operación: Recorridos del Árbol
+
+```text
+FUNCION imprimirInorden(nodo)
+    SI nodo NO ES NULO ENTONCES
+        imprimirInorden(nodo.izquierdo)
+        IMPRIMIR nodo.valor
+        imprimirInorden(nodo.derecho)
+    FIN SI
+FIN FUNCION
+
+FUNCION imprimirPreorden(nodo)
+    SI nodo NO ES NULO ENTONCES
+        IMPRIMIR nodo.valor
+        imprimirPreorden(nodo.izquierdo)
+        imprimirPreorden(nodo.derecho)
+    FIN SI
+FIN FUNCION
+
+FUNCION imprimirPostorden(nodo)
+    SI nodo NO ES NULO ENTONCES
+        imprimirPostorden(nodo.izquierdo)
+        imprimirPostorden(nodo.derecho)
+        IMPRIMIR nodo.valor
+    FIN SI
+FIN FUNCION
+
+```
+
 ---
 
 ## 5. Instrucciones de Compilación y Ejecución
