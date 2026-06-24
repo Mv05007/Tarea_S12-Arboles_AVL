@@ -290,7 +290,3 @@ Para revisar el código fuente en línea y el historial de versiones, puede acce
 | Video explicativo (requisitos de la sección 5) | 10 |
 | Declaración de uso de IA y portada completa | 5 |
 | **Total** | **100** |
-
-```
-
-```
