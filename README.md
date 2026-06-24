@@ -245,7 +245,7 @@ Esta sustancial reducción de altura tuvo un impacto directo y cuantificable en 
 
 A continuación se adjunta el enlace al video explicativo sobre la Tarea 12: Implementación de Árboles AVL. En esta grabación demostramos la ejecución en vivo del sistema, explicando a detalle la lógica detrás de las operaciones de inserción, la evaluación de desbalances, la aplicación de los cuatro tipos de rotaciones y la eliminación de la raíz con rebalanceo, cerrando con la comparativa final de alturas.
 
-* **Sustentación del proyecto:** [https://youtu.be/9MSXXsGCYrI](https://youtu.be/9MSXXsGCYrI)
+* **Sustentación del proyecto:** [https://youtu.be/jaC-93q9bXw](https://youtu.be/jaC-93q9bXw)
 
 ---
 
